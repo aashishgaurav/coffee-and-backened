@@ -1,0 +1,16 @@
+{
+  "name": "chai-backened",
+  "version": "1.0.0",
+  "description": "a backened on chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascipt",
+    "chai",
+    "backened"
+  ],
+  "author": "Aashish Gaurav",
+  "license": "ISC"
+}

@@ -14,7 +14,8 @@
   ],
   "author": "Aashish Gaurav",
   "license": "ISC",
-    "devDependencies": {
-    "nodemon": "^3.1.10"
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
   }
 }
